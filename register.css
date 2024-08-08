@@ -43,7 +43,7 @@ label{
 
 }
 
-.user-login-btn{
+.user-register-btn{
   
   background-color: #40CD82;
   width: 150px;
@@ -51,8 +51,24 @@ label{
   border-radius: 10px;
 }
 
+.return-login{
+  background-color: #40CD82;
+  width: 150px;
+  height: 44px;
+  border-radius: 10px;
+  margin: 20px auto;
+  padding: 5px auto ;
+}
 
-
+.return-login-btn{
+   display:block;
+  /*align-items: center;
+  justify-content: center; */
+  padding: 10px auto ;
+  margin: 10px auto;
+  text-align: center;
+  text-decoration: none;
+}
 footer{
   
   background-color: #c4c2c2;
